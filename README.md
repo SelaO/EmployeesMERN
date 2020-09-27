@@ -1,7 +1,7 @@
 
 # Introduction
 
-This repository is forked from [here](https://medium.com/@samarony.barros/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66)
+This repository is forked from https://github.com/samaronybarros/movies-app, https://medium.com/@samarony.barros/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66
 
 ## What you should install?
 
